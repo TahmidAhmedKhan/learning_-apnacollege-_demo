@@ -1,2 +1,3 @@
 # learning_-apnacollege-_demo
-creating learning purpose  
+creating for learning purpose  
+Author - Tahmid Ahmed Khan 
